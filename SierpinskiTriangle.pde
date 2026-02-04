@@ -1,11 +1,8 @@
 int minLen = 20;
 
-public void settings() {
-  size(600,600);
-}
-
 public void setup() {
   background(0);
+  size(600,600);
 }
 
 public void draw() {
